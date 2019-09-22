@@ -1,0 +1,8 @@
+
+"icon.png" must be an image file of size 19*19
+
+	This is the image that appears in the toolbar of Chrome for the extension
+
+"icon_128.png" must be an image file of size 128*128
+
+"logo.png" must be an image file of size 150*150
